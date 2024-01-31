@@ -59,23 +59,23 @@ npm start
 
 1. **Lista wiadomości:**
 
-<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/img/1_lista_wiadomo%C5%9Bci.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/Projekt/Aplikacja_Node.js%20+%20Express/img/1_lista_wiadomo%C5%9Bci.png?raw=true"  width="800px" height="auto">
 
 2. **Tworzenie nowej wiadomości:**
 
-<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/img/2_nowa_wiadomosc.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/Projekt/Aplikacja_Node.js%20+%20Express/img/1_lista_wiadomo%C5%9Bci.png?raw=true"  width="800px" height="auto">
 
 3. **Szczegóły wiadomości z możliwością edycji i usuwania:**
 
-<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/img/3_szczegoly_wiadomosci.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/Projekt/Aplikacja_Node.js%20+%20Express/img/3_szczegoly_wiadomosci.png?raw=true"  width="800px" height="auto">
 
 4. **Dodawanie studenta:**
 
-<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/img/4_dodawanie_studenta.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/Projekt/Aplikacja_Node.js%20+%20Express/img/4_dodawanie_studenta.png?raw=true"  width="800px" height="auto">
 
 5. **Lista studentów:**
 
-<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/img/5_lista_studentow.png?raw=true"  width="800px" height="auto">
+<img src="https://github.com/Majkel97/Projekt-NoSQL/blob/main/Projekt/Aplikacja_Node.js%20+%20Express/img/4_dodawanie_studenta.png?raw=true"  width="800px" height="auto">
 
 ## Dokumentacja Endpointów
 
